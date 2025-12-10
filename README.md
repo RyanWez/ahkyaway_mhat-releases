@@ -18,7 +18,7 @@
 
 | Version | Release Date | Download |
 |---------|--------------|----------|
-| v1.0.4 | Dec 10, 2024 | [📥 Download](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/tag/v1.0.4) |
+| v1.0.4 | Dec 10, 2025 | [📥 Download](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/tag/v1.0.4) |
 
 ---
 

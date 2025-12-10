@@ -8,7 +8,7 @@
 
 ### Latest Release
 
-[![Download APK](https://img.shields.io/badge/Download-v1.0.4-brightgreen?style=for-the-badge&logo=android)](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/tag/v1.0.4)
+[![Download APK](https://img.shields.io/badge/Download-v1.0.4-brightgreen?style=for-the-badge&logo=android)](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/download/v1.0.4/ahkyaway-mhat_v1.0.4.apk)
 
 👆 **Download နှိပ်ပြီး APK ရယူပါ**
 
@@ -16,9 +16,9 @@
 
 ## 📦 All Versions
 
-| Version | Release Date | Download |
+| Version | Release Date | Source |
 |---------|--------------|----------|
-| v1.0.4 | Dec 10, 2025 | [📥 Download](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/tag/v1.0.4) |
+| v1.0.4 | Dec 10, 2025 | [👀 Download](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/tag/v1.0.4) |
 
 ---
 
@@ -50,7 +50,7 @@ App သည် အလိုအလျောက် update စစ်ပေးပါ�
 
 ## 📝 Changelog
 
-### v1.0.4 (Dec 10, 2024)
+### v1.0.4 (Dec 10, 2025)
 - 🎉 Initial Release
 - ✨ Customer management
 - 💰 Debt tracking

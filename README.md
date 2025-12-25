@@ -8,7 +8,7 @@
 
 ### Latest Release
 
-[![Download APK](https://img.shields.io/badge/Download-v1.0.4-brightgreen?style=for-the-badge&logo=android)](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/download/v1.0.4/ahkyaway-mhat_v1.0.4.apk)
+[![Download APK](https://img.shields.io/badge/Download-v2.0.7-brightgreen?style=for-the-badge&logo=android)](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/download/v2.0.7/ahkyaway-mhat_v2.0.7_arm64-v8a.apk)
 
 👆 **Download နှိပ်ပြီး APK ရယူပါ**
 
@@ -18,7 +18,7 @@
 
 | Version | Release Date | Download |
 |---------|--------------|----------|
-| v1.0.4 | Dec 10, 2025 | [📥 Download](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/download/v1.0.4/ahkyaway-mhat_v1.0.4.apk) |
+| v2.0.7 | Dec 13, 2025 | [📥 Download](https://github.com/RyanWez/ahkyaway_mhat-releases/releases/download/v2.0.7/ahkyaway-mhat_v2.0.7_arm64-v8a.apk) |
 
 ---
 
